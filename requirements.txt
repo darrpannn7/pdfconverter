@@ -1,0 +1,7 @@
+PyQt6
+python-docx
+python-pptx
+PyPDF2
+Pillow
+reportlab
+docx2pdf 
